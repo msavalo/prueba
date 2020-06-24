@@ -16,7 +16,7 @@ int main ()
 	pantalla.getLista().cargarListaDesdeArchivoTXT (nombreArchivo);
 	//char c;
   
-         cout<< " Se declaró una variable de tipo pantalla." <<endl;
+         cout<< " Se declaró una variable de tipo pantallaaaaaa." <<endl;
          /*while (pantalla.getOpcion()!='0'){
          	cout<< " Esto esta adentro del while." <<endl;
          	pantalla.getLista().listar();
